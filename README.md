@@ -8,7 +8,7 @@
 
 **********************************************
 ## Introduction
-Spring Boot makes it easy to create stand-alone, production-grade Spring based applications that you can "just run".
+In this course we learned that spring boot makes it easy to create stand-alone, production-grade spring based applications that you can "just run".
 
 ###### Features
 * Create stand-alone Spring applications
